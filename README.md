@@ -10,5 +10,5 @@ packaging=maven-plugin
 ```
 To install in local maven repository:
 ```
-mvn install:install-file -Dfile=MW_HOME/wlserver_10.3/server/lib/weblogic-maven-plugin.jar -DpomFile=pom.xml
+mvn install:install-file -Dfile=MW_HOME/wlserver_10.3/server/lib/weblogic-maven-plugin-10.3.4.jar -DpomFile=pom.xml
 ```
